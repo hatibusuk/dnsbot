@@ -6,7 +6,7 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam,
 │ᴋᴇᴛɪᴋ #ᴍᴇɴᴜ
 │ᴜɴᴛᴜᴋ ᴍᴇʟɪʜᴀᴛ ғɪᴛᴜʀ ᴅɴꜱ ʙᴏᴛ
 ┬
-╰──────「 *_ᴅɴꜱʙᴏᴛ_* 」
+╰──────「 *_MIKUBOT_* 」
 `
 }
 
@@ -43,7 +43,7 @@ const donasi = (name) => {
 │\`\`\`ᴘᴜʟꜱᴀ\`\`\`
 │ 5ᴋ ɪɴᴠɪᴛᴇ ʙᴏᴛ ᴋᴇ ɢʀᴜᴘ ꜱᴇʟᴀᴍᴀ 1 ʙᴜʟᴀɴ
 ┬
-╰──────「 *_ᴅɴꜱʙᴏᴛ_* 」
+╰──────「 *_MIKUBOT_* 」
 `
 }
 exports.donasi = donasi
