@@ -74,20 +74,20 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:デ ニ ス\n'
-            + 'ORG:Owner Dns Bot;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285866295942:+62 858-66295-942\n'
+            + 'FN:WAFIQ\n'
+            + 'ORG:MIKU BOT;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=601128692700:+60 11-2869-2700\n'
             + 'END:VCARD'
        
 const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Caca Cans\n'
-            + 'ORG:Co Owner Dns Bot;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285876210829:+62 858-76210-829\n'
+            + 'FN:RAYYAN BIN ZAMURI\n'
+            + 'ORG:MIKU BOT;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=60196563360:+60 19-656-3360\n'
             + 'END:VCARD'
 
 prefix = "#"
-name = "DNS BOT"
+name = "MIKU BOT"
 rdaftar = "@denssptraa"
 rmenu = "@denssptraa"
 botinfo = "@denssptraa"
@@ -4208,7 +4208,7 @@ case 'husbu':
 						console.log(muehe)
 						reply(muehe)
 					} else {
-						console.log(color('[DNSBOT]','aqua'), 'Command Tidak Terdaftar', color(sender.split('@')[0]))
+						console.log(color('[MIKUBOT]','aqua'), 'Command Tidak Terdaftar', color(sender.split('@')[0]))
 					}
                            }
 		} catch (e) {
